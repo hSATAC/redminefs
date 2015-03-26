@@ -1,5 +1,8 @@
 # redminefs
+
 Redmine filesystem written in Go
+
+See it in action: https://asciinema.org/a/18038
 
 ## Why
 
